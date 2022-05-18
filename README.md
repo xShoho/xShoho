@@ -1,7 +1,7 @@
 Hi 👋 My name is Kamil Starosta
 ===============================
 
-Back-end developer
+Aspiring Back-end developer
 ------------------
 
 I am Warsaw School of Computer Science first year full-time student. I love coffe, Trading Card Games, playing guitar and martial arts.
