@@ -8,7 +8,7 @@ I am Warsaw School of Computer Science first year full-time student. I love coff
 
 *   🌍  I'm based in Warsaw, Poland
 *   ✉️  You can contact me at [ks@g3w.eu](mailto:ks@g3w.eu)
-*   🧠  I'm learning Spring Boot
+*   🧠  I'm learning Ruby on Rails
 
 ### Skills
 <p align="left">
