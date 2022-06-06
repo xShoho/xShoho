@@ -33,5 +33,3 @@ I am Warsaw School of Computer Science first year full-time student. I love coff
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/xShoho"><img src="https://github-readme-stats.vercel.app/api?username=xShoho&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="xShoho's GitHub stats" /></a>
-
-<a href="http://www.github.com/xShoho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xShoho&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
