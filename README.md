@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamil Starosta</h1>
 <h3 align="center">Aspiring Data Scientist, Computer Science student form Poland</h3>
 
-- 🌱 I’m currently learning **Business Intelligence**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **ks@g3w.eu**
 
