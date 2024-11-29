@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil Starosta</h1>
 <h3 align="center">A Data Science Student From Poland</h3>
 
-- 🔭 I’m currently working on [Advent of Code](adventodcode.com)
-
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **ks@g3w.eu**
