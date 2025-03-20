@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I spend my free time playing guitar and ukulele. In addition, I attend Aikido training twice a week. I also run classes for a children's group of this sport. I am a patient person and open to new knowledge as well as sharing what I have already acquired.<br><br>- 🔭 I'm studying at Warsaw School of Computer Science<br>- 📚 I'm currently learning about Machine Learning algorythms</p>
+<p align="left">I spend my free time playing guitar and ukulele. In addition, I attend Aikido training twice a week. I also run classes for a children's group of this sport. I am a patient person and open to new knowledge as well as sharing what I have already acquired.<br><br>- 🔭 I'm studying at Warsaw School of Computer Science</p>
 
 ###
 
