@@ -11,9 +11,6 @@
   <a href="discordapp.com/users/408628407845519360" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://x.com/ShohoX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
@@ -32,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Kamil from Poland<br><br>- 🔭 I'm studying at Warsaw School of Computer Science<br>- 📚 I'm currently learning about Machine Learning algorythms</p>
+<p align="left">I spend my free time playing guitar and ukulele. In addition, I attend Aikido training twice a week. I also run classes for a children's group of this sport. I am a patient person and open to new knowledge as well as sharing what I have already acquired.<br><br>- 🔭 I'm studying at Warsaw School of Computer Science<br>- 📚 I'm currently learning about Machine Learning algorythms</p>
 
 ###
 
